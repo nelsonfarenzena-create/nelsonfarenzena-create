@@ -42,7 +42,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧 Email: nelson_farenzena@estudante.sesisenai.org.br
-💼 GitHub: https://github.com/nelsonfarenzena
+💼 GitHub: https://github.com/nelsonfarenzena-create
 
 ---
 
