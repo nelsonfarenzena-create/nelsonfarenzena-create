@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Nelson Felipe Farenzena
 
-🎓 Estudante da Aprendizagem Industrial  
+🎓 Estudante da Aprendizagem Industrial 🧑‍💼 Contratado Pelo Grupo Farenzena
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
