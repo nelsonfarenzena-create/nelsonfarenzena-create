@@ -37,7 +37,9 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📌 Projeto 1 – [Site De Calistenia] https://nelsonfarenzena-create.github.io/Site2/
+
 📌 Projeto 2 – [Nome do Projeto]  
+
 📌 Projeto 3 – [Nome do Projeto]  
 
 ---
