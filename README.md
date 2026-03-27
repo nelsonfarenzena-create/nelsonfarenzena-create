@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Nelson Felipe Farenzena
 
-🎓 Estudante da Aprendizagem Industrial de programador de sistemas.
+🎓 Estudante da Aprendizagem Industrial de programador de sistemas da informação (SENAI).
 
 📖 Estudante Da Escola De Educação Básica Cecília Vivan, Pelo Primeiro Ano Do Ensino Médio, 2026.
 
-🧑‍💼 (SENAI) Contratado Pelo Grupo Farenzena.
+🧑‍💼Contratado Pelo Grupo Farenzena.
 
 💻 Interessado em tecnologia, programação e inovação 
 
